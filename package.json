@@ -1,0 +1,19 @@
+{
+  "name": "dctb-docker-nodejs-mongodb",
+  "version": "1.0.0",
+  "description": "Just a simple configuration of usage with docker and nodejs applications with mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogocezar/dctb-docker-nodejs-mongodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogocezar/dctb-docker-nodejs-mongodb/issues"
+  },
+  "homepage": "https://github.com/diogocezar/dctb-docker-nodejs-mongodb#readme"
+}
